@@ -1,4 +1,4 @@
-# TKREV Liquidity Generator
+# TKREV Reflection Token Generator
 
 The following document will share details on how to verify code of your Reflection Token
 
